@@ -12,8 +12,8 @@ import { motion } from 'framer-motion'
                     <div class="container my-24 px-6 mx-auto ">
 
                     <div className="max-w-screen-md mb-8 lg:mb-16">
-                <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Reach Out for a Quote</h2>
-                <p className=" sm:text-xl dark:text-gray-400">Get started on your business web development today!</p>
+                <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 ">Reach Out for a Quote</h2>
+                <p className=" sm:text-xl ">Get started on your business web development today!</p>
             </div>
 <section class="mb-32 text-gray-800">
 
