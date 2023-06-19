@@ -16,7 +16,7 @@ const Portfolio = () => {
 
     <div class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:gap-6 xl:gap-8">
   <div> 
-      <h2 className="mb-4  text-center text-2xl font-bold text-white  ">GenjutsuAtl Creative Filmaking Agency</h2>
+      <h2 className="mb-4  text-center text-2xl font-bold text-white  ">GenjutsuAtl Filmaking </h2>
            <a href="https://genjutsuatl.com/" class="group relative flex h-48 items-end justify-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-96">
      
         <Image src="/assets/gen.png" width={800} height={800} loading="lazy" alt="Photo by Minh Pham" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
@@ -28,7 +28,7 @@ const Portfolio = () => {
   </div>
  
     <div> 
-         <h2 className="mb-4  text-center  text-2xl font-bold text-white  ">Modern Hip Hop Headless CMS Blog</h2>
+         <h2 className="mb-4  text-center  text-2xl font-bold text-white  ">Hip Hop Blog</h2>
         <a href="https://modernhiphop.vercel.app/" class="group relative flex h-48 items-end justify-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-96">
     
       <Image src="/assets/hip.png" width={800} height={800} loading="lazy" alt="Photo by Minh Pham" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
